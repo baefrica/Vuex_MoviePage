@@ -1,3 +1,3 @@
-# vuex_MoviePage
+# Vuex_MoviePage
 
 Movie Information Page
